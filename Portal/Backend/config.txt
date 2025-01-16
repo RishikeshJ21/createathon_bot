@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+     <appSettings>
+        <add key="DJANGO_SETTINGS_MODULE" value="PV.settings" />
+        <add key="PYTHONPATH" value="D:\Server\RMU" />
+        <add key="WSGI_HANDLER" value="PV.wsgi.application" />
+    </appSettings>
+    <system.webServer>
+        <handlers>
+            <add name="DJANGO HANDLER" path="*" verb="*" modules="FastCgiModule" scriptProcessor="D:\Server\env\Scripts\python.exe|D:\Server\env\Lib\site-packages\wfastcgi.py" resourceType="Unspecified" requireAccess="Script" />
+        </handlers>
+    </system.webServer>
+</configuration>
+
