@@ -3,7 +3,7 @@
 ## Overview
 
 This project is a bot designed to perform various tasks efficiently and interact seamlessly with users. It leverages advanced features and integrations to provide an optimized experience.
-for whole code [https://drive.google.com/file/d/1YBDWOv_308ezp9I2QFaTZEepbsvPZYHK/view?usp=sharing](https://github.com/RishikeshJ21/createathon_bot/releases/tag/beta)
+for whole code [CLick me](https://github.com/RishikeshJ21/createathon_bot/releases/tag/beta)
 ## Table of Contents
 
 - [Overview](#overview)
